@@ -1,16 +1,7 @@
-# alarmapp
+# Alarm App
 
-A new Flutter project.
+ An Alarm app made in flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - Implemented basic flutter UI design.
+ - Created the logic for setting and dismissing alarms with (Alarm) package.
+ - Made use of Permission handler to take permissions from user
